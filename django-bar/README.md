@@ -1,0 +1,7 @@
+Witaj
+#####################
+
+Repozytorium zawiera projekt aplikacji wykonywanej na szkoleniu
+Django w Rzeszowie.
+
+Projekt został wykonany w oparciu o dokumentację pod adresem: https://github.com/kdn222/django-bar.git
